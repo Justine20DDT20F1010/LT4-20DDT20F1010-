@@ -1,0 +1,13 @@
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LT4_20DDT20F1010\LT4_20DDT20F1010_DDT5A\LT4_20DDT20F1010\bin\Debug\LT4_20DDT20F1010.exe.config
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LT4_20DDT20F1010\LT4_20DDT20F1010_DDT5A\LT4_20DDT20F1010\bin\Debug\LT4_20DDT20F1010.exe
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LT4_20DDT20F1010\LT4_20DDT20F1010_DDT5A\LT4_20DDT20F1010\bin\Debug\LT4_20DDT20F1010.pdb
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LT4_20DDT20F1010\LT4_20DDT20F1010_DDT5A\LT4_20DDT20F1010\bin\Debug\LT4_20DDT20F1010.xml
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LT4_20DDT20F1010\LT4_20DDT20F1010_DDT5A\LT4_20DDT20F1010\obj\Debug\LT4_20DDT20F1010.vbproj.AssemblyReference.cache
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LT4_20DDT20F1010\LT4_20DDT20F1010_DDT5A\LT4_20DDT20F1010\obj\Debug\LT4_20DDT20F1010.Form1.resources
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LT4_20DDT20F1010\LT4_20DDT20F1010_DDT5A\LT4_20DDT20F1010\obj\Debug\LT4_20DDT20F1010.Resources.resources
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LT4_20DDT20F1010\LT4_20DDT20F1010_DDT5A\LT4_20DDT20F1010\obj\Debug\LT4_20DDT20F1010.vbproj.GenerateResource.cache
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LT4_20DDT20F1010\LT4_20DDT20F1010_DDT5A\LT4_20DDT20F1010\obj\Debug\LT4_20DDT20F1010.vbproj.CoreCompileInputs.cache
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LT4_20DDT20F1010\LT4_20DDT20F1010_DDT5A\LT4_20DDT20F1010\obj\Debug\LT4_20DDT20F1010.exe
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LT4_20DDT20F1010\LT4_20DDT20F1010_DDT5A\LT4_20DDT20F1010\obj\Debug\LT4_20DDT20F1010.xml
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LT4_20DDT20F1010\LT4_20DDT20F1010_DDT5A\LT4_20DDT20F1010\obj\Debug\LT4_20DDT20F1010.pdb
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LT4_20DDT20F1010\LT4_20DDT20F1010_DDT5A\LT4_20DDT20F1010\obj\Debug\LT4_20DDT20F1010.LoginForm2.resources
